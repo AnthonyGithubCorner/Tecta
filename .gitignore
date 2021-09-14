@@ -1,0 +1,11 @@
+
+*.plist
+*.xcbkptlist
+*.xcscheme
+*.pbxproj
+*.plist
+*.pbxproj
+*.plist
+SDL2 Game.xcodeproj/xcuserdata/anthony.xcuserdatad/xcschemes/xcschememanagement.plist
+SDL2 Game.xcodeproj/project.pbxproj
+SDL2 Game.xcodeproj/xcuserdata/anthony.xcuserdatad/xcschemes/xcschememanagement.plist
