@@ -12,6 +12,7 @@ However, each tile gives a specific yield, libraries give science, temple (L sha
 
 Throughout the game what your population wants will change and you must meet the yield requirment to keep them happy as shown at the bottom text. ex) Food: # food produced / # food required
 
-If they get too angry with you they will rebel and you can no longer place buildings adjacent
+If they get too angry with you they will rebel and you can no longer place buildings adjacent to rebeling tiles (ones with fire).
 
-Thats all have fun!
+Thats is all have fun!
+
