@@ -16,3 +16,12 @@ If they get too angry with you they will rebel and you can no longer place build
 
 That is all, have fun!
 
+# Special Thanks:
+To Chuukki for providing the art and the music for this game:
+- Youtube: https://www.youtube.com/c/chuukki
+- Spotify: https://open.spotify.com/user/0wu41n2nibp577wqnillhni5b?si=925cec74075844b8
+
+
+
+
+
