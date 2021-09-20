@@ -17,28 +17,28 @@ bool loadCards(SDL_Renderer* gRenderer)
 
 
     //Load tile texture
-    if( !gCardTextures[cardConstants::RESIDENTIAL_CARD].loadFromFile(gRenderer, "/Users/anthony/C++Projects/SDL2 Game/SDL2 Game/Assets/UI/Cards/Residential_neutral.png" ) )
+    if( !gCardTextures[cardConstants::RESIDENTIAL_CARD].loadFromFile(gRenderer, "PATHTO/Assets/UI/Cards/Residential_neutral.png" ) )
     {
         printf( "Failed to load texture!\n" );
         success = false;
     }
     
-    if( !gCardTextures[cardConstants::ECONOMIC_CARD].loadFromFile(gRenderer, "/Users/anthony/C++Projects/SDL2 Game/SDL2 Game/Assets/UI/Cards/Market_Neutral.png" ) )
+    if( !gCardTextures[cardConstants::ECONOMIC_CARD].loadFromFile(gRenderer, "PATHTO/Assets/UI/Cards/Market_Neutral.png" ) )
     {
         printf( "Failed to load texture!\n" );
         success = false;
     }
-    if( !gCardTextures[cardConstants::SCIENCE_CARD].loadFromFile(gRenderer, "/Users/anthony/C++Projects/SDL2 Game/SDL2 Game/Assets/UI/Cards/Library_Neutral.png" ) )
+    if( !gCardTextures[cardConstants::SCIENCE_CARD].loadFromFile(gRenderer, "PATHTO/Assets/UI/Cards/Library_Neutral.png" ) )
     {
         printf( "Failed to load texture!\n" );
         success = false;
     }
-    if( !gCardTextures[cardConstants::LORE_CARD].loadFromFile(gRenderer, "/Users/anthony/C++Projects/SDL2 Game/SDL2 Game/Assets/UI/Cards/Museum_neutral.png" ) )
+    if( !gCardTextures[cardConstants::LORE_CARD].loadFromFile(gRenderer, "PATHTO/Assets/UI/Cards/Museum_neutral.png" ) )
     {
         printf( "Failed to load texture!\n" );
         success = false;
     }
-    if( !gCardTextures[cardConstants::RELIGION_CARD].loadFromFile(gRenderer, "/Users/anthony/C++Projects/SDL2 Game/SDL2 Game/Assets/UI/Cards/Temple_Neutral.png" ) )
+    if( !gCardTextures[cardConstants::RELIGION_CARD].loadFromFile(gRenderer, "PATHTO/Assets/UI/Cards/Temple_Neutral.png" ) )
     {
         printf( "Failed to load texture!\n" );
         success = false;
